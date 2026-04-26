@@ -289,19 +289,6 @@ img {
   animation: fadeInUp 1s ease;
 }
 
-.hero-tag {
-  display: inline-block;
-  background: rgba(255, 255, 255, 0.15);
-  border: 1px solid rgba(255, 255, 255, 0.3);
-  color: var(--dourado-claro);
-  padding: 8px 20px;
-  border-radius: 50px;
-  font-size: 0.9rem;
-  font-weight: 500;
-  margin-bottom: 1.5rem;
-  backdrop-filter: blur(10px);
-}
-
 .hero-title {
   font-size: 3.8rem;
   font-weight: 700;
